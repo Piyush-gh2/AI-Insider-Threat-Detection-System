@@ -1,0 +1,10 @@
+employee,action,file,time
+E101,login,NA,09:00
+E101,download,finance.xlsx,09:15
+E102,failed_login,NA,02:00
+E103,upload,confidential.pdf,23:30
+E101,download,client_data.csv,09:20
+E104,login,NA,10:00
+E104,download,public_data.csv,10:10
+E102,failed_login,NA,02:10
+E103,upload,secret_report.pdf,23:45

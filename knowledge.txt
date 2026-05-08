@@ -1,0 +1,5 @@
+Repeated failed logins may indicate suspicious activity.
+Large confidential file transfers are high risk.
+Odd working hours can indicate insider threats.
+Behavioral analytics improves threat detection.
+Unauthorized uploads require investigation.
